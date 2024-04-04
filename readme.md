@@ -339,7 +339,73 @@ Para realizar os exercícios propostos de Entradas e Saídas Digitais no *Arduin
 
 
 ## Resultados
+Após realizar as práticas, foi possível simular os exercícios propostos em sala de aula demonstrados abaixo: 
 
+- **Simulação do Circuito *Olá Mundo***:
+<div>
+    <div style="padding: 5px;">
+        <figure style="text-align: center;">
+            <img src="imgs/simulacao1.png" height="300px">
+            <figcaption style="text-align: center;"><em>Fig. 16: Simulação em execução</em></figcaption>
+        </figure>
+    
+</div>
+    Após a realização do circuito foi possível executar o projeto proposto para simular o "Olá Mundo" com o Arduino no Wokwi.
+
+ - **Projeto de um Circuito com Botões e LEDs**: 
+ 
+<div style="display: flex;">
+            <div style="flex: 50%; padding: 5px;">
+                <figure style="text-align: center;">
+                <img src="imgs/simulacao2.1.png" width="200px">
+                <figcaption style="text-align: center;"><em><a href="https://docs.arduino.cc/hardware/uno-rev3/">Fig. 17: Simulação em execução</a></em></figcaption>
+                </figure>
+            </div>
+            <div style="flex: 50%; padding: 5px;">
+                <figure style="text-align: center;">
+                <img src="imgs/simulacao2.2.png" width="200px">
+                <figcaption style="text-align: center;"><em><a href="https://www.electronicsforu.com/resources/7-segment-display-pinout-understanding">Fig. 18: Simulação em execução</a></em></figcaption>
+                </figure>
+            </div>
+        </div>
+    O experimento demonstra a interatividade do Arduino ao controlar LEDs através de botões.
+
+- **Projeto de um Circuito com Display de 7 Segmentos**:
+
+<div>
+<div style="padding: 5px;">
+    <figure style="text-align: center;">
+        <img src="imgs/simulacao3.png" height="300px">
+        <figcaption style="text-align: center;"><em>Fig. 19: Simulação em execução</em></figcaption>
+    </figure>
+</div>
+
+Após finalizar o experimento foi possivel observar a capacidade do Arduino em controlar displays de 7 segmentos para exibir o númeor 9.
+
+**Adição de Botões ao Circuito do Exercício Anterior**:
+<div style="display: flex;">
+            <div style="flex: 50%; padding: 5px;">
+                <figure style="text-align: center;">
+                <img src="imgs/simulacao4.1.png" width="200px">
+                <figcaption style="text-align: center;"><em><a href="https://docs.arduino.cc/hardware/uno-rev3/">Fig. 17: Simulação em execução</a></em></figcaption>
+                </figure>
+            </div>
+            <div style="flex: 50%; padding: 5px;">
+                <figure style="text-align: center;">
+                <img src="imgs/simulacao4.2.png" width="200px">
+                <figcaption style="text-align: center;"><em><a href="https://www.electronicsforu.com/resources/7-segment-display-pinout-understanding">Fig. 18: Simulação em execução</a></em></figcaption>
+                </figure>
+            </div>
+               <div style="flex: 50%; padding: 5px;">
+                <figure style="text-align: center;">
+                <img src="imgs/simulacao4.3.png" width="200px">
+                <figcaption style="text-align: center;"><em><a href="https://www.electronicsforu.com/resources/7-segment-display-pinout-understanding">Fig. 18: Simulação em execução</a></em></figcaption>
+                </figure>
+            </div>
+        </div>
+
+Como demosntrado acima, foi possível exibir no display a contagem dos número de 0 a 9.
+</br>
 Links para os projetos:
 
 * [Exercício 01/Wokwi](https://wokwi.com/projects/322062421191557714)<br>
