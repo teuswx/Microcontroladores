@@ -358,13 +358,13 @@ Após realizar as práticas, foi possível simular os exercícios propostos em s
             <div style="flex: 50%; padding: 5px;">
                 <figure style="text-align: center;">
                 <img src="imgs/simulacao2.1.png" width="200px">
-                <figcaption style="text-align: center;"><em><a href="https://docs.arduino.cc/hardware/uno-rev3/">Fig. 17: Simulação em execução</a></em></figcaption>
+                <figcaption style="text-align: center;"><em>Fig. 17: Simulação em execução</a></em></figcaption>
                 </figure>
             </div>
             <div style="flex: 50%; padding: 5px;">
                 <figure style="text-align: center;">
                 <img src="imgs/simulacao2.2.png" width="200px">
-                <figcaption style="text-align: center;"><em><a href="https://www.electronicsforu.com/resources/7-segment-display-pinout-understanding">Fig. 18: Simulação em execução</a></em></figcaption>
+                <figcaption style="text-align: center;"><em>Fig. 18: Simulação em execução</a></em></figcaption>
                 </figure>
             </div>
         </div>
@@ -387,19 +387,19 @@ Após finalizar o experimento foi possivel observar a capacidade do Arduino em c
             <div style="flex: 50%; padding: 5px;">
                 <figure style="text-align: center;">
                 <img src="imgs/simulacao4.1.png" width="200px">
-                <figcaption style="text-align: center;"><em><a href="https://docs.arduino.cc/hardware/uno-rev3/">Fig. 17: Simulação em execução</a></em></figcaption>
+                <figcaption style="text-align: center;"><emFig. 17: Simulação em execução</a></em></figcaption>
                 </figure>
             </div>
             <div style="flex: 50%; padding: 5px;">
                 <figure style="text-align: center;">
                 <img src="imgs/simulacao4.2.png" width="200px">
-                <figcaption style="text-align: center;"><em><a href="https://www.electronicsforu.com/resources/7-segment-display-pinout-understanding">Fig. 18: Simulação em execução</a></em></figcaption>
+                <figcaption style="text-align: center;"><em>Fig. 18: Simulação em execução</a></em></figcaption>
                 </figure>
             </div>
                <div style="flex: 50%; padding: 5px;">
                 <figure style="text-align: center;">
                 <img src="imgs/simulacao4.3.png" width="200px">
-                <figcaption style="text-align: center;"><em><a href="https://www.electronicsforu.com/resources/7-segment-display-pinout-understanding">Fig. 18: Simulação em execução</a></em></figcaption>
+                <figcaption style="text-align: center;"><em>Fig. 18: Simulação em execução</a></em></figcaption>
                 </figure>
             </div>
         </div>
